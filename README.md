@@ -5,11 +5,11 @@ Perfect for quick PDF tasks with a clean interface and minimal overhead.
 
 ## 🚀 Features
 
-✅ Merge multiple PDF files into one
-⏳ Split functionality coming soon
-🖱️ GUI-based, no command-line needed
-🎨 Built using PyQt6 for a native desktop feel
-📂 File dialogs for easy input/output paths
+- ✅ Merge multiple PDF files into one
+- ⏳ Split functionality coming soon
+- 🖱️ GUI-based, no command-line needed
+- 🎨 Built using PyQt6 for a native desktop feel
+- 📂 File dialogs for easy input/output paths
 
 ---
 
