@@ -99,8 +99,8 @@ Open to PRs, especially if you can:
 ## 📜 License
 
 MIT — Do what you want, but don’t sue me. Or worse, push to main without testing.
----
 
+---
 ## 👑 Author
 
 Made with 💼 by [MrSaltyFish](https://github.com/MrSaltyFish)
